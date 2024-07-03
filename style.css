@@ -8,6 +8,8 @@ h1{
 
 p{
     font-size:40px;
+    font-family: fantasy;
+    color:#1D48A4;
 }
 
 h2{
@@ -32,3 +34,22 @@ h5{
     font-size: 40px;
 }
 
+h6{
+    font-size:25px;
+}
+
+span{
+    font-size: 25px;
+}
+
+.belobog{
+    color: rgb(6, 60, 175);
+    border-bottom: 3px navy dashed;
+    border-top: 3px navy dashed;
+}
+
+h4{
+    color: #0066ff;
+    font-size: 30px;
+    
+}
